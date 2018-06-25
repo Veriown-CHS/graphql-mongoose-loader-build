@@ -1,5 +1,7 @@
 # GraphQL Mongoose Loader [![CircleCI](https://circleci.com/gh/entria/graphql-mongoose-loader/tree/master.svg?style=svg)](https://circleci.com/gh/entria/graphql-mongoose-loader/tree/master)
 
+> TEMPORARY VERSION TO BE USED IN NPM. PLEASE DO NOT RELY ON THIS FOR SOURCE CODE
+
 ## Install
 ```
 npm i @entria/graphql-mongoose-loader --save
